@@ -21,7 +21,7 @@ Modelos de desarrollo de software:
 - modelo 4
 ```
 
-- **Commit 2 [1pts]:** (mensaje: borrado) En la carpeta Ejercicio1, se encuentra una imagen de un modelo de desarrollo de software llamada `modelo-sw.png`.
+- **Commit 2 [1pts]:** (mensaje: borrado) En la carpeta Ejercicio1, se encuentra una imagen de un modelo de desarrollo de software llamada `modelo-sw.png`. Dentro del fichero creado en el apartado anterior, borrar todas las líneas que no sean las que correspondan al modelo de la imagen `modelo-sw.png`. Una vez borrado, hacer el commit.
 
 - **Commit 3 [1pts]:** (mensaje: modelos ágiles) Crea una archivo llamado `modelos-agiles.txt`. En su interior enumerar los dos modelos ágiles más utilizados.
 
